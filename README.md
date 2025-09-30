@@ -1,2 +1,2 @@
-# I2S-TFCKD-SE
-This is the repository of the manuscript "I2S-TFCKD: Intra-Inter Set Knowledge Distillation with Time-Frequency Calibration for Speech Enhancement". We provide the code implementation of I2S-TFCKD. 
+# I2RF-TFCKD-SE
+This is the repository of the manuscript "I2RF-TFCKD: Intra-Inter Representation Fusion with Time-Frequency Calibration Knowledge Distillation for Speech Enhancement". We provide the code implementation of I2RF-TFCKD. 
